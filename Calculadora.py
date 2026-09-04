@@ -25,3 +25,5 @@ if __name__ == "__main__":
         print("División: ", dividir(5, 0))  # Esto lanzará una excepción
     except ValueError as e:
         print(e)  # Salida: No se puede dividir por cero.
+
+#Calidad valida.
